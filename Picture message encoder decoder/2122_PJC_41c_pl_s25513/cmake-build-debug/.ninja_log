@@ -1,0 +1,14 @@
+# ninja log v5
+5401	7377	6772861348447429	ProjektC__.exe	ee650b99c91b6e19
+4	5401	6772861328821858	CMakeFiles/ProjektC__.dir/ImageOperations.cpp.obj	35962b330a672dcb
+1	220	6772865132121344	build.ninja	3a2429e8355eba8c
+19	721	6772853085840253	CMakeFiles/ProjektC__.dir/ERRORmanager.cpp.obj	bf8aa80b86eab161
+30	684	6772791301962952	CMakeFiles/ProjektC__.dir/Functions.cpp.obj	5deb2507986023e6
+4	1351	6772856812719265	CMakeFiles/ProjektC__.dir/2122_PJC_41c_pl_s25513.cpp.obj	74f7558c5a994e0f
+36	872	6772865226476737	CMakeFiles/ProjektC__.dir/ERRORmanager.cpp.obj	3b0c093fa4ce2ce6
+19	925	6772865227015362	CMakeFiles/ProjektC__.dir/Functions.cpp.obj	e87b0e7386d164d2
+4	1645	6772865234211873	CMakeFiles/ProjektC__.dir/2122_PJC_41c_pl_s25513.cpp.obj	8d2aae7a505b91eb
+52	3952	6772865257228319	CMakeFiles/ProjektC__.dir/ImageOperations.cpp.obj	4b32d0b17d1a2f8
+3952	6344	6772865281001197	ProjektC__.exe	ee650b99c91b6e19
+4	5178	7352230335075253	CMakeFiles/ProjektC__.dir/ImageOperations.cpp.obj	4b32d0b17d1a2f8
+5179	9274	7352230375961266	ProjektC__.exe	ee650b99c91b6e19

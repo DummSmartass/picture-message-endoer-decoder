@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/2122_PJC_41c_pl_s25513/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/CLionProjects/2122_PJC_41c_pl_s25513/cmake-build-debug/CMakeFiles/ProjektC__.dir
+C:/Users/User/CLionProjects/2122_PJC_41c_pl_s25513/cmake-build-debug/CMakeFiles/edit_cache.dir
